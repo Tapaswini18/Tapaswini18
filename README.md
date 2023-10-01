@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tapaswini18
 - 👀 I’m interested in Coding 
-- 🌱 I’m currently learning ECE
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me tapaswini18panda@gmail.com
 
 <!---
